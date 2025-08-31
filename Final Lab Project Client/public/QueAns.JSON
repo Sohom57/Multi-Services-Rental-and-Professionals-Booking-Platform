@@ -1,0 +1,54 @@
+{
+  "questionsAndAnswers": [
+    {
+      "question": "What services can I book through this platform?",
+      "answer": "You can book professionals across a wide range of occupations, such as electricians, photographers, tutors, cleaners, movers, and more for specific time slots.",
+      "note": "Updated at 2025-04-07"
+    },
+    {
+      "question": "How does item rental work on this platform?",
+      "answer": "Users can rent items listed by verified owners. Simply search for the item, select the desired rental period, and submit your request. The owner will approve and you’ll receive a confirmation.",
+      "note": "Updated at 2025-03-10"
+    },
+    {
+      "question": "Can I list my own services or items for rent?",
+      "answer": "Yes! Anyone can register as a provider. Once verified, you can list services or items, set availability, pricing, and start earning.",
+      "note": "Updated at 2025-05-01"
+    },
+    {
+      "question": "Is there a payment system integrated?",
+      "answer": "Yes, we support secure online payments. Customers pay upon booking, and funds are released to the service or item owner after successful completion.",
+      "note": "Updated at 2025-03-25"
+    },
+    {
+      "question": "What happens if someone cancels a booking or rental?",
+      "answer": "Our platform offers a fair cancellation policy. Depending on the timing of the cancellation, you may be eligible for a full or partial refund. Providers may also set specific cancellation rules.",
+      "note": "Updated at 2025-04-15"
+    },
+    {
+      "question": "How do I know the service provider or item owner is trustworthy?",
+      "answer": "All providers and renters go through a verification process. Users can also leave ratings and reviews based on their experiences, helping maintain a trusted community.",
+      "note": "Updated at 2025-03-02"
+    },
+    {
+      "question": "Are there any service fees involved?",
+      "answer": "Yes, a small service fee is applied to bookings and rentals to help cover platform maintenance and support. The fee will be displayed before final confirmation.",
+      "note": "Updated at 2025-04-28"
+    },
+    {
+      "question": "Can I communicate with the service provider or item owner before booking?",
+      "answer": "Yes, our platform allows secure messaging between users and providers so you can ask questions, clarify details, and ensure everything is aligned before booking.",
+      "note": "Updated at 2025-03-19"
+    },
+    {
+      "question": "What if an item I rented gets damaged?",
+      "answer": "If an item is returned damaged, the platform’s protection policy and the owner's terms will apply. Users may be liable for repair or replacement costs depending on the situation.",
+      "note": "Updated at 2025-05-09"
+    },
+    {
+      "question": "Is this platform available in all cities?",
+      "answer": "We are expanding rapidly! Availability may vary by region. You can check service and item availability by entering your location on the homepage.",
+      "note": "Updated at 2025-03-06"
+    }
+  ]
+}
